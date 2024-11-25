@@ -1,0 +1,8 @@
+1: Clicker med bestemt bokstav - uten OO
+2: Dele opp i metoder, static + klassevariabler
+3: Med klasse - uten metoder
+4: Med klasse - og metoder
+5: Mange objekter
+6: Static vs ikke-static
+7: Lese og skrive JSON - save og load clicker
+8: Verdityper vs referansetyper
