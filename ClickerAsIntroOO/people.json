@@ -1,0 +1,19 @@
+[
+    {
+        "Name": "Terje",
+        "Points": 145,
+        "Dummy":  true
+    },
+    {
+        "Name": "Per",
+        "Points": 101
+    },
+    {
+        "Name": "Pål",
+        "Points": 101
+    },
+    {
+        "Name": "Espen",
+        "Points": 101
+    }
+]
